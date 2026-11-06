@@ -23,5 +23,13 @@ This project analyzes a real-world dataset of residential properties across Tehr
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Terminator-maker/tehran-housing-ml-modeling.git](https://github.com/Terminator-maker/tehran-housing-ml-modeling.git)
-   cd tehran-housing-ml-modeling
+   git clone [https://github.com/Terminator-maker/Advanced-Modeling-of-Tehran-Housing-Prices-using-Machine-Learning.git](https://github.com/Terminator-maker/Advanced-Modeling-of-Tehran-Housing-Prices-using-Machine-Learning.git)
+   cd Advanced-Modeling-of-Tehran-Housing-Prices-using-Machine-Learning
+   Install dependencies:
+
+Bash
+pip install -r requirements.txt
+Run the script:
+
+Bash
+python Project_Code.py
