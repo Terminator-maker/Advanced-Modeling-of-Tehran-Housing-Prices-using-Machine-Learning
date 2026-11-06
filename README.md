@@ -29,6 +29,7 @@ This project analyzes a real-world dataset of residential properties across Tehr
 
 Bash
 pip install -r requirements.txt 
+
 Run the script: 
 
 Bash
