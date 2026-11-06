@@ -28,8 +28,8 @@ This project analyzes a real-world dataset of residential properties across Tehr
    Install dependencies:
 
 Bash
-pip install -r requirements.txt
-Run the script:
+pip install -r requirements.txt 
+Run the script: 
 
 Bash
 python Project_Code.py
